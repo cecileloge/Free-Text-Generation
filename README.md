@@ -13,6 +13,8 @@ Enjoy!
 Please cite if you build on my work: 
 * Paper: 
 
+----
+
 ![alt text](https://github.com/cecileloge/Free-Text-Generation/blob/main/Models/models.png?raw=true)
 
 
