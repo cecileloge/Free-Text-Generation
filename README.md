@@ -1,4 +1,4 @@
-# Generate Free Text Conditionally & Unconditionally
+# Generating Free Text Conditionally & Unconditionally
 
 *Stanford CS230 Project*  
 
