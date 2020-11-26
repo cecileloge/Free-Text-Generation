@@ -5,7 +5,7 @@
 ----
 
 If you're interested, the dataset is here: https://www.kaggle.com/rounakbanik/the-movies-dataset  
-Please cite my work if you build on it: 
+Please cite if you build on my work: 
 
 ----
 
