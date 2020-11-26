@@ -10,10 +10,6 @@ Among the various questions that this goal entails, one particular challenge sta
 
 ----
 
-![alt text](https://github.com/cecileloge/Free-Text-Generation/blob/main/Models/BaselineRNN.png?raw=true)
+![alt text](https://github.com/cecileloge/Free-Text-Generation/blob/main/Models/models.png?raw=true)
 
-![alt text](https://github.com/cecileloge/Free-Text-Generation/blob/main/Models/Attention.png?raw=true)
 
-![alt text](https://github.com/cecileloge/Free-Text-Generation/blob/main/Models/GatedCNN.png?raw=true)
-
-![alt text](https://github.com/cecileloge/Free-Text-Generation/blob/main/Models/Encoder.png?raw=true)
