@@ -11,7 +11,7 @@ If you're interested, the dataset is here: https://www.kaggle.com/rounakbanik/th
 Enjoy!  
 
 Please cite if you build on my work: 
-* Paper: https://bit.ly/35hmBAv
+* Paper: http://cs230.stanford.edu/projects_fall_2020/reports/55683081.pdf
 
 ----
 
