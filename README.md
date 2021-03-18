@@ -12,7 +12,8 @@ Enjoy!
 
 Please cite if you build on my work: 
 
-[![Paper](https://img.shields.io/badge/paper-stanford-blue)](http://cs230.stanford.edu/projects_fall_2020/reports/55683081.pdf)
+[![Paper](https://img.shields.io/badge/paper%202020-stanford-blue?style=for-the-badge)](http://cs230.stanford.edu/projects_fall_2020/reports/55683081.pdf)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/cecileloge/)
 
 ----
 
